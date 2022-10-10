@@ -12,6 +12,8 @@ app.use(express.json())
 
 app.use(morganMiddleware);
 
+app.use(router)
+
 const port = config.get<number>("port")
 
 app.listen(port, async () => {
