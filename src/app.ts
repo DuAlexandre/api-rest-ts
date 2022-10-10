@@ -1,3 +1,4 @@
+require("dotenv").config()
 import express from "express"
 import config from "config"
 import db from "../config/db"
