@@ -1,0 +1,2 @@
+2022-10-10 11:09:32:932 - [31merror[39m: [31mNão foi possível conectar[39m
+2022-10-10 11:09:32:932 - [31merror[39m: [31mErro: Error: querySrv ENOTFOUND _mongodb._tcp.cluster0.rb2kar.mongodb.net[39m

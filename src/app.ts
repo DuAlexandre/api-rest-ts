@@ -2,6 +2,8 @@ require("dotenv").config()
 import express from "express"
 import config from "config"
 import db from "../config/db"
+import router from "./router"
+import Logger from "../config/logger"
 
 const app = express()
 
@@ -12,5 +14,5 @@ const port = config.get<number>("port")
 app.listen(port, async () => {
     await db()
 
-    console.log(`Aplicação rodando na porta: ${port}`)
+    Logger.info(`Aplicação rodando na porta: ${port}`)
 })

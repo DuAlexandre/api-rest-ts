@@ -1,0 +1,23 @@
+2022-10-10 11:02:06:26 - [32minfo[39m: [32mConectou ao banco de dados![39m
+2022-10-10 11:02:06:26 - [32minfo[39m: [32mAplicação rodando na porta: 3000[39m
+2022-10-10 11:02:25:225 - [32minfo[39m: [32mConectou ao banco de dados![39m
+2022-10-10 11:02:25:225 - [32minfo[39m: [32mAplicação rodando na porta: 3000[39m
+2022-10-10 11:02:43:243 - [32minfo[39m: [32mConectou ao banco de dados![39m
+2022-10-10 11:02:43:243 - [32minfo[39m: [32mAplicação rodando na porta: 3000[39m
+2022-10-10 11:02:44:244 - [32minfo[39m: [32mConectou ao banco de dados![39m
+2022-10-10 11:02:44:244 - [32minfo[39m: [32mAplicação rodando na porta: 3000[39m
+2022-10-10 11:02:50:250 - [32minfo[39m: [32mConectou ao banco de dados![39m
+2022-10-10 11:02:50:250 - [32minfo[39m: [32mAplicação rodando na porta: 3000[39m
+2022-10-10 11:03:07:37 - [32minfo[39m: [32mConectou ao banco de dados![39m
+2022-10-10 11:03:07:37 - [32minfo[39m: [32mAplicação rodando na porta: 3000[39m
+2022-10-10 11:03:12:312 - [32minfo[39m: [32mConectou ao banco de dados![39m
+2022-10-10 11:03:12:312 - [32minfo[39m: [32mAplicação rodando na porta: 3000[39m
+2022-10-10 11:03:18:318 - [32minfo[39m: [32mConectou ao banco de dados![39m
+2022-10-10 11:03:18:318 - [32minfo[39m: [32mAplicação rodando na porta: 3000[39m
+2022-10-10 11:09:07:97 - [32minfo[39m: [32mConectou ao banco de dados![39m
+2022-10-10 11:09:07:97 - [32minfo[39m: [32mAplicação rodando na porta: 3000[39m
+2022-10-10 11:09:32:932 - [31merror[39m: [31mNão foi possível conectar[39m
+2022-10-10 11:09:32:932 - [31merror[39m: [31mErro: Error: querySrv ENOTFOUND _mongodb._tcp.cluster0.rb2kar.mongodb.net[39m
+2022-10-10 11:09:32:932 - [32minfo[39m: [32mAplicação rodando na porta: 3000[39m
+2022-10-10 11:09:38:938 - [32minfo[39m: [32mConectou ao banco de dados![39m
+2022-10-10 11:09:38:938 - [32minfo[39m: [32mAplicação rodando na porta: 3000[39m
